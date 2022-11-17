@@ -18,7 +18,7 @@
 　以下の項目に対し、フォルダフルパスを設定の上、上書き保存してください。   
 　各項目の詳細については、iniファイルを参照してください。  
 　TEMPLATEFILE_FULLPATHには、HER-SYSよりダウンロードしたXLSXテンプレートファイルを指定します。  
-  ※ディレクトリは末尾に”\”を含めて設定してください。
+　※ディレクトリは末尾に”\”を含めて設定してください。
  - [SETTINGS]WORK_DIR
  - [LOG]FOLDERPATH
  - [CSV]READ_FOLDERPATH
